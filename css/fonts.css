@@ -1,0 +1,101 @@
+/*all of these fonts are free in Google-fonts*/
+
+/*Ubuntu*/
+@font-face {
+  font-family: Ubuntu-Bold;
+  src: url(../fonts/Ubuntu/woff/Ubuntu-Bold.woff);
+  src: url(../fonts/Ubuntu/woff2/Ubuntu-Bold.woff2);
+}
+@font-face {
+  font-family: Ubuntu-BoldItalic;
+  src: url(../fonts/Ubuntu/woff/Ubuntu-BoldItalic.woff);
+  src: url(../fonts/Ubuntu/woff2/Ubuntu-BoldItalic.woff2);
+}
+@font-face {
+  font-family: Ubuntu-Italic;
+  src: url(../fonts/Ubuntu/woff/Ubuntu-Italic.woff);
+  src: url(../fonts/Ubuntu/woff2/Ubuntu-Italic.woff2);
+}
+@font-face {
+  font-family: Ubuntu-Light;
+  src: url(../fonts/Ubuntu/woff/Ubuntu-Light.woff);
+  src: url(../fonts/Ubuntu/woff2/Ubuntu-Light.woff2);
+}
+@font-face {
+  font-family: Ubuntu-LightItalic;
+  src: url(../fonts/Ubuntu/woff/Ubuntu-LightItalic.woff);
+  src: url(../fonts/Ubuntu/woff2/Ubuntu-LightItalic.woff2);
+}
+
+@font-face {
+  font-family: Ubuntu-Medium;
+  src: url(../fonts/Ubuntu/woff/Ubuntu-Medium.woff);
+  src: url(../fonts/Ubuntu/woff2/Ubuntu-Medium.woff2);
+}
+@font-face {
+  font-family: Ubuntu-MediumItalic;
+  src: url(../fonts/Ubuntu/woff/Ubuntu-MediumItalic.woff);
+  src: url(../fonts/Ubuntu/woff2/Ubuntu-MediumItalic.woff2);
+}
+@font-face {
+  font-family: Ubuntu-Regular;
+  src: url(../fonts/Ubuntu/woff/Ubuntu-Regular.woff);
+  src: url(../fonts/Ubuntu/woff2/Ubuntu-Regular.woff2);
+}
+
+@font-face {
+  font-family: Lato-Black;
+  src: url(../fonts/Lato/woff/Lato-Black.woff);
+  src: url(../fonts/Lato/woff2/Lato-Black.woff2);
+}
+@font-face {
+  font-family: Lato-BlackItalic;
+  src: url(../fonts/Lato/woff/Lato-BlackItalic.woff);
+  src: url(../fonts/Lato/woff2/Lato-BlackItalic.woff2);
+}
+@font-face {
+  font-family: Lato-Bold;
+  src: url(../fonts/Lato/woff/Lato-Bold.woff);
+  src: url(../fonts/Lato/woff2/Lato-Bold.woff2);
+}
+@font-face {
+  font-family: Lato-BoldItalic;
+  src: url(../fonts/Lato/woff/Lato-BoldItalic.woff);
+  src: url(../fonts/Lato/woff2/Lato-BoldItalic.woff2);
+}
+@font-face {
+  font-family: Lato-Italic;
+  src: url(../fonts/Lato/woff/Lato-Italic.woff);
+  src: url(../fonts/Lato/woff2/Lato-Italic.woff2);
+}
+@font-face {
+  font-family: Lato-Light;
+  src: url(../fonts/Lato/woff/Lato-Light.woff);
+  src: url(../fonts/Lato/woff2/Lato-Light.woff2);
+}
+@font-face {
+  font-family: Lato-LightItalic;
+  src: url(../fonts/Lato/woff/Lato-LightItalic.woff);
+  src: url(../fonts/Lato/woff2/Lato-LightItalic.woff2);
+}
+@font-face {
+  font-family: Lato-Black;
+  src: url(../fonts/Lato/woff/Lato-Black.woff);
+  src: url(../fonts/Lato/woff2/Lato-Black.woff2);
+}
+@font-face {
+  font-family: Lato-Regular;
+  src: url(../fonts/Lato/woff/Lato-Regular.woff);
+  src: url(../fonts/Lato/woff2/Lato-Regular.woff2);
+}
+@font-face {
+  font-family: Lato-Thin;
+  src: url(../fonts/Lato/woff/Lato-Thin.woff);
+  src: url(../fonts/Lato/woff2/Lato-Thin.woff2);
+}
+@font-face {
+  font-family: Lato-ThinItalic;
+  src: url(../fonts/Lato/woff/Lato-ThinItalic.woff);
+  src: url(../fonts/Lato/woff2/Lato-ThinItalic.woff2);
+}
+/*Lato*/

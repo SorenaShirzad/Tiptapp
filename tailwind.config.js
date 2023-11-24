@@ -1,0 +1,30 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  darkMode: "class",
+  content: ["./**/*.html"],
+  theme: {
+    extend: {},
+    container: { center: true },
+    fontFamily: {
+      UbuntuBold: ["Ubuntu-Bold"],
+      UbuntuBoldItalic: ["Ubuntu-BoldItalic"],
+      UbuntuItalic: ["Ubuntu-Italic"],
+      UbuntuLight: ["Ubuntu-Light"],
+      UbuntuLightItalic: ["Ubuntu-LightItalic"],
+      UbuntuMedium: ["Ubuntu-Medium"],
+      UbuntuMediumItalic: ["Ubuntu-MediumItalic"],
+      UbuntuRegular: ["Ubuntu-Regular"],
+      LatoBlack: ["Lato-Black"],
+      LatoBlackItalic: ["Lato-BlackItalic"],
+      LatoBold: ["Lato-Bold"],
+      LatoBoldItalic: ["Lato-BoldItalic"],
+      LatoItalic: ["Lato-Italic"],
+      LatoLight: ["Lato-Light"],
+      LatoLightItalic: ["Lato-LightItalic"],
+      LatoRegular: ["Lato-Regular"],
+      LatoThin: ["Lato-Thin"],
+      LatoThinItalic: ["Lato-ThinItalic"],
+    },
+  },
+  plugins: [],
+};

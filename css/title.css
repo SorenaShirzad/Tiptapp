@@ -1,0 +1,40 @@
+/* Add some CSS styles to make the typing effect more visible */
+#works {
+  border-right: 2px solid transparent;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: typing 2s steps(40, end), erasing 2s steps(40, end) 4s forwards,
+    typing 2s steps(40, end) 8s forwards;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes erasing {
+  from {
+    width: 100%;
+  }
+  to {
+    width: 0;
+  }
+}
+/*rgb(5,124,86)rgb(8,213,138)*/
+#works {
+  background: linear-gradient(to right, rgb(5, 124, 86) 0%, rgb(8, 213, 138));
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.active {
+  color: white !important;
+}
+.active2 {
+  background-color: black !important;
+}

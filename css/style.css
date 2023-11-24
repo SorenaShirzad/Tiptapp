@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*scale for buttons*/
+.sbtn {
+  transition: all linear 225ms;
+}
+
+.felx {
+  display: flex !important;
+}
+
+.burgerhidden {
+  display: none !important;
+}
+
+.fx1 {
+  flex-grow: 5;
+}
+.fx2 {
+  flex-grow: 3;
+}
+
+.hhh {
+  height: 37.8px !important;
+}
